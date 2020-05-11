@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>Контакти</h1>
+    <h1>Оплата</h1>
   </div>
 </template>
