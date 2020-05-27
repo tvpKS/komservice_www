@@ -33,6 +33,11 @@ Vue.use(VueRouter)
     path: '/about',
     name: 'About',
     component: About
+  },
+  {
+    path: '/*',
+    name: 'Home_404',
+    component: Home
   }
 ]
 
