@@ -64,7 +64,7 @@
 }
 
 html, body {
-	margin: 0;
+	margin: 0,0,0,0px;
 	padding: 0;
 	font-family: Tahoma, Verdana, sans-serif;
 	color: #696969;
